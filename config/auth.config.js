@@ -1,3 +1,3 @@
-modeule.export = {
+module.export = {
     secret: "rohitsingh0"
 };
